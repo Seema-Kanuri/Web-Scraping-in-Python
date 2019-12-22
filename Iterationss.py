@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # In[ ]:
-
-
 import pandas as pd
 col_names =  ['CareTypeDesc',
  'CareTypeID',
